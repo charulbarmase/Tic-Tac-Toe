@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(101, 172, 182);
+    text-align: center;
+    margin-inline: centre;
+}
+button {
+    height: 200px;
+    width: 200px;
+    font-size: 50px;
+    border-radius: 20px;
+    margin: 10px;
+    color: rgb(115, 115, 122);
+    background-color: azure;
+    margin-inline: centre;
+}
+
+.winner {
+    height: 50px;
+    width: 220px;
+    font-size: 30px;
+    display: none;
+}
+
+.newbtn {
+    height: 50px;
+    width: 220px;
+    margin-bottom: 50px;
+    font-size: 30px;
+}
+.row {
+    display: flex;
+    justify-content: center;
+
+}
+}
